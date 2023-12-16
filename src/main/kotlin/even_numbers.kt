@@ -3,10 +3,8 @@ fun main() {
     while ( number in 1 ..1000 )
     {
         if( number % 2 == 0 )
-        {
-            println( "$number" )
+        { println( "$number" )
         }
         number--
-
     }
 }
