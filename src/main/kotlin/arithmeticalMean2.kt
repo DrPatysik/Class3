@@ -12,6 +12,6 @@ fun main() {
         counter++
     }
 
-    println( (sum / counter).toFloat() )
+    println( sum / counter.toFloat() )
 
 }
